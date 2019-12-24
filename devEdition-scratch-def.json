@@ -1,7 +1,7 @@
 {
   "orgName": "Acme",
   "edition": "Enterprise",
-  "features": ["Communities", "ServiceCloud", "Pardot"],
+  "features": ["Communities", "ServiceCloud"],
   "workitem__c": "W-12345678",
   "release__c": "December 2019 pilot",
   "settings": {
